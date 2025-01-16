@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.env
+
+# JavaScript/Node.js
+node_modules/
+*.log
+
+# IDEs/Editors
+.vscode/
+*.swp
+
+# General
+*.DS_Store
+.env
