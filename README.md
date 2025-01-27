@@ -1,2 +1,2 @@
 # 
-Planned - React, Angular, Flask/Django, AWS
+TypeScript, Python, React, AWS
